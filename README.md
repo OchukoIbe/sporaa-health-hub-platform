@@ -16,7 +16,7 @@
 
 ## The problem
 
-Millions of people in the diaspora carry responsibility for the health of family members thousands of kilometres away. When something happens, they are hours behind it — calling relatives for updates, guessing at what is actually wrong, and sending money into a care system they cannot see or verify.
+Millions of people carry responsibility for the health of family members thousands of kilometres away, in another country. When something happens, they are hours behind it — calling relatives for updates, guessing at what is actually wrong, and sending money into a care system they cannot see or verify.
 
 The result is a pattern of preventable emergencies. Chronic conditions go unmonitored between crises. Medication adherence is invisible. Nobody notices the slow decline that precedes the hospital admission, because no one is positioned to notice it.
 
@@ -68,7 +68,7 @@ We are currently in discussion with prospective technical partners, and platform
 Migrate pilot operations off manual tooling. Patient records, care plans, scheduling, and coordinator workflows.
 
 **Phase 2 — Family portal**
-Diaspora-facing dashboard: visibility into visits, outcomes, medication adherence, and spend.
+Family-facing dashboard for relatives abroad: visibility into visits, outcomes, medication adherence, and spend.
 
 **Phase 3 — Intelligence layer**
 Risk scoring and early-warning signals derived from the pilot dataset.
