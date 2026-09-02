@@ -6,7 +6,8 @@
 
 ![Status](https://img.shields.io/badge/status-pilot-6B21A8)
 ![Stage](https://img.shields.io/badge/stage-pre--seed-6B21A8)
-![Markets](https://img.shields.io/badge/markets-Nigeria%20%7C%20Canada-6B21A8)
+![Clients](https://img.shields.io/badge/clients-UK%20%7C%20US%20%7C%20Canada-6B21A8)
+![Care delivery](https://img.shields.io/badge/care%20delivery-Nigeria-6B21A8)
 
 [sporaahealthhub.com](https://www.sporaahealthhub.com/) · [jennifer@sporaahealthhub.com](mailto:jennifer@sporaahealthhub.com)
 
@@ -47,6 +48,8 @@ We are deliberately transparent about what exists today versus what is planned. 
 | Patient dashboard & family portal | **In development** — see roadmap |
 | Predictive analytics engine | **Planned** |
 | Public API | **Planned** |
+
+Our subscribers are based in Canada, the United States, and the United Kingdom. Care is delivered in Nigeria. Demand has come from across the English-speaking migration corridor without any marketing spend, which is why the platform is being built for multiple sending countries rather than a single route.
 
 Our first subscribers bought annual plans in a category with no established trust, for care delivered to a relative they cannot supervise, before any platform existed. That is the signal we are building on.
 
