@@ -41,6 +41,7 @@ We are deliberately transparent about what exists today versus what is planned. 
 | Area | Status |
 |---|---|
 | Pilot operations (Lagos, Abuja) | **Live** — 9 paying subscribers on annual plans |
+| Revenue | **~₦6M collected** over three months, no marketing spend |
 | Waitlist | **67 prospective clients**, acquired with no marketing spend |
 | Emerald elderly care plan | **Live** — requested by ~86% of the waitlist |
 | Provider & partner network | **Live** — active partnerships in progress |
@@ -51,7 +52,7 @@ We are deliberately transparent about what exists today versus what is planned. 
 
 Our subscribers are based in Canada, the United States, and the United Kingdom. Care is delivered in Nigeria. Demand has come from across the English-speaking migration corridor without any marketing spend, which is why the platform is being built for multiple sending countries rather than a single route.
 
-Our first subscribers bought annual plans in a category with no established trust, for care delivered to a relative they cannot supervise, before any platform existed. That is the signal we are building on.
+Our first subscribers bought annual plans in a category with no established trust, for care delivered to a relative they cannot supervise, before any platform existed. They paid upfront, at an average of roughly ₦670,000 each, without being sold to. That is the signal we are building on.
 
 Running the pilot on manual workflows was a choice. It let us learn what families actually ask for, what providers will actually deliver, and what people will actually pay, before writing the software that automates it. The engineering roadmap below is built directly on that operational evidence.
 
@@ -107,3 +108,4 @@ All rights reserved. © 2026 Sporaa HealthHub.
 <div align="center">
 <sub><a href="https://www.sporaahealthhub.com/">sporaahealthhub.com</a> — care that crosses borders.</sub>
 </div>
+
